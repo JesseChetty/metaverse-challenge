@@ -16,7 +16,7 @@ function Login() {
                 className="object-cover rounded-full"
                     src={jessecc} height={200} width={200}
                  />
-
+                
                  <button onClick={authenticate} className="bg-purple-500 rounded-lg p-5 font-bold animate-pulse">Login to the METAVERSE</button>
             </div>
 
